@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Cascade and Inheritance"
+showInFull: true
+showIn3h: true
 ---
 
 ### Cascade and Inheritance

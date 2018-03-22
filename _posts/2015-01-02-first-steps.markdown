@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "First Steps"
+showInFull: true
+showIn3h: false
 ---
 
 ## The Basics

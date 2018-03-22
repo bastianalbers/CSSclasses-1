@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "CSS Hover"
+showInFull: true
+showIn3h: true
 ---
 
 ### Hover

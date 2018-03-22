@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "CSS Border Properties"
+showInFull: true
+showIn3h: true
 ---
 
 ### Border

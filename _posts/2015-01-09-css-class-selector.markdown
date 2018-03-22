@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "CSS Class Selector"
+showInFull: true
+showIn3h: true
 ---
 
 ### Class Selector

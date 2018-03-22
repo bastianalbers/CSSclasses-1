@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "CSS Font Properties"
+showInFull: true
+showIn3h: true
 ---
 
 ### Font-family

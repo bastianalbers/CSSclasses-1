@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "CSS Box Model"
+showInFull: true
+showIn3h: true
 ---
 
 ### The Box Model

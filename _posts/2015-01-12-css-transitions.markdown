@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "CSS Transitions"
+showInFull: true
+showIn3h: true
 ---
 
 ### Transition

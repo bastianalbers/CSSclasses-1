@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "CSS Basics"
+showInFull: true
+showIn3h: true
 ---
 
 ## CSS

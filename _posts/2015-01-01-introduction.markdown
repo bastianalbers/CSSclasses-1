@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "test-01"
+showInFull: true
+showIn3h: true
 ---
 
 # Learning Materials

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Boilerplate"
+showInFull: true
+showIn3h: true
 ---
 
 ## Basic HTML & HTML boilerplate

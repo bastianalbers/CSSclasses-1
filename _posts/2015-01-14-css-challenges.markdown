@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "CSS Challenges"
+showInFull: true
+showIn3h: true
 ---
 
 ### Challenges: Start experimenting!

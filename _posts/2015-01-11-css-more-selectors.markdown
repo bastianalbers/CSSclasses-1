@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "CSS More Selectors"
+showInFull: true
+showIn3h: false
 ---
 
 ### More selectors: nth-child, nth-of-type, sibling
